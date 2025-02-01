@@ -6,11 +6,11 @@ Upload a PDF.
 Ask questions related to the PDF.
 Get answers using OpenAI's language model.
 Requirements
-Python 3.7+
-OpenAI API Key
-Streamlit
-PyPDF2
-Langchain
-FAISS
-dotenv
+Python 3.7+,
+OpenAI API Key,
+Streamlit,
+PyPDF2,
+Langchain,
+FAISS,
+dotenv,
 
